@@ -161,7 +161,7 @@
     </table>
     <div>
         <input type="submit" value="sign up">
-    </div>R
+    </div>
 </form>
 
 </body>
